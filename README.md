@@ -1,1 +1,5 @@
-# Vladislav![giphy](https://user-images.githubusercontent.com/64318909/224553517-792a3c9f-b0dc-43e8-bee7-04c0cf56507f.gif)
+# Vladislav!
+
+<div id = "header" align = "center>
+  <img src = "https://media.giphy.com/media/115GePH0Iri8QE/giphy.gif" width = "100"/>
+  
